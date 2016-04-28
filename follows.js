@@ -362,7 +362,7 @@
 					if(dataDuration != '' && dataInterval != 0) {
 						updateFeeds(data.id, thisFeedDatastreams, dataDuration, dataInterval);
 					} else {
-						updateFeeds(data.id, thisFeedDatastreams, '1year', 43200);
+						updateFeeds(data.id, thisFeedDatastreams, '90days', 10800);
 					}
 				} else {
 					// Duplicate Example to Build Feed UI
