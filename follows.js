@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'PWFJlfKukLbKIr0ja2I5yI2ymPGfR1qD3yTxIKlx0O2teyK6', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'nDYRjSjlSsWhZuM7Ze3lkHBEKajCRY1vIDWohAso9VMDYj2J', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [968086980], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Rural Solar Innovation', // Replaces Xively logo in the header
 		dataDuration	= 'year', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
